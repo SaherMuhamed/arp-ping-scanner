@@ -34,4 +34,4 @@ The script generates a table displaying the following information for each disco
 ### Updates
 - `v1.0.1 - 27/12/2023` adding Size and improve scanning functionality
 - `v1.1.0 - 11/11/2024` adding `--json or -j` optional switch to import the scan result into JSON format / increase scanning speed
-- `v1.2.0 - 17/01/2025` huge changes, rename the project from *network scanner* => *arp-ping* also convert the project into OOP for further updating and releases & improve scanning functionality
+- `v2.1.0 - 17/01/2025` huge changes, rename the project from *network scanner* => *arp-ping* also convert the project into OOP for further updating and releases & improve scanning functionality
